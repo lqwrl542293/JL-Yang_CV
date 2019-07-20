@@ -4,7 +4,7 @@
 
 ### 教程
 
-[Yolo v3 环境搭建及训练入门指南](https://github.com/lqwrl542293/JL-Yang_CV/blob/master/ObjectDetection2018/yolo-v3.md)
+[linux 下 Yolo v3 环境搭建及训练入门指南](https://github.com/lqwrl542293/JL-Yang_CV/blob/master/ObjectDetection2018/yolo-v3.md)
 
 ### 代码
 
