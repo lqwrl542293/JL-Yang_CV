@@ -10,14 +10,15 @@
 
 #### 数据集转换代码
 
-DOTA 转 Darknet
+[DOTA 转 Darknet](https://github.com/lqwrl542293/JL-Yang_CV/tree/master/ObjectDetection2018/codes/dota2darknet)
 
-DOTA 转 VOC
+[DOTA 转 VOC](https://github.com/lqwrl542293/JL-Yang_CV/tree/master/ObjectDetection2018/codes/dota2voc)
 
-NWPU VHR-10 转 VOC
+[NWPU VHR-10 转 VOC](https://github.com/lqwrl542293/JL-Yang_CV/tree/master/ObjectDetection2018/codes/nwpu2voc)
 
-NWPU VHR-10 转 Darknet
+[NWPU VHR-10 转 Darknet](https://github.com/lqwrl542293/JL-Yang_CV/blob/master/ObjectDetection2018/codes/nwpu_vhr_label.py)
 
-#### IGARSS 代码
+#### [IGARSS 2019 代码](https://github.com/lqwrl542293/JL-Yang_CV/tree/master/ObjectDetection2018/IGARSS_codes)
 
-打包整理
+#### [基于 PyQt 的多算法前端展示项目](https://github.com/zcybupt/ObjectDetectionDemo_with_GUI)
+
