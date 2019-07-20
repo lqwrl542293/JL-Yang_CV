@@ -18,7 +18,7 @@
 
 [NWPU VHR-10 转 Darknet](https://github.com/lqwrl542293/JL-Yang_CV/blob/master/ObjectDetection2018/codes/nwpu_vhr_label.py)
 
-#### [IGARSS 2019 代码](https://github.com/lqwrl542293/JL-Yang_CV/tree/master/ObjectDetection2018/IGARSS_codes)
+#### [IGARSS 2019 代码整理](https://github.com/lqwrl542293/JL-Yang_CV/tree/master/ObjectDetection2018/IGARSS_codes)
 
 #### [基于 PyQt 的多算法前端展示项目](https://github.com/zcybupt/ObjectDetectionDemo_with_GUI)
 
