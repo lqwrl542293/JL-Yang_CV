@@ -58,6 +58,8 @@ Within `/TX2/PDB/pics/` is the picture database of the project. So far we only 1
 
 For convenience, a preliminary dataset is provided for demonstration of demo. `/TX2/PDB/pics/` and `/TX2/PDB/PDB.txt` is attached with [Baidu Netdisk](https://pan.baidu.com/s/1mLTFbAPvMdDI5UempxEX5w) (PW: 0yj6). This dataset is based on Potsdam published by ISPRS. You can check [this website](http://www2.isprs.org/commissions/comm3/wg4/semantic-labeling.html) for more information. If you are interested in human-labelled object detection ground truth of Potsdam, feel comfortable to contact.
 
+Also, Potsdam dataset with divided images (together with transformed .npy files) is provided at [Baidu Netdisk](https://pan.baidu.com/s/14FIx5Iotm4hFoq_AmAHiVw) (PW: 9z94). If you have problem with accessing these files, please feel free to contact us.
+
 ## To Ultilize "The Eagle"
 
 1. Have all the necessary site-packages installed.
