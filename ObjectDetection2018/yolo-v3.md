@@ -134,6 +134,8 @@ bicycle: 99%
 
 下面以在[西工大遥感数据集](http://jiong.tea.ac.cn/people/JunweiHan/NWPUVHR10dataset.html)上训练模型为例演示如何训练自己的数据
 
+该数据集也可从本项目目录中[直接下载](https://github.com/lqwrl542293/JL-Yang_CV/blob/master/ObjectDetection2018/dataset/NWPU%20VHR-10%20dataset.rar)
+
 #### 数据集标注转换
 
 下载数据集并放到 darknet 目录下, 解压并将文件夹中的空格替换
