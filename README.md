@@ -24,3 +24,5 @@
 
 #### [VOC 评估代码](https://github.com/lqwrl542293/JL-Yang_CV/tree/master/ObjectDetection2018/codes/voc%E8%AF%84%E4%BC%B0)
 
+#### [2020届毕设 基于深度学习的遥感图像语义分割算法](https://github.com/QT-Zhu/AerialSeg)
+
