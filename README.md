@@ -26,3 +26,4 @@
 
 #### [2020届毕设 基于深度学习的遥感图像语义分割算法](https://github.com/QT-Zhu/AerialSeg)
 
+#### [BiSeNet for Aerial Video Segmentation](https://github.com/lqwrl542293/JL-Yang_CV/tree/master/UAV%20aerial%20video%20segmentation)
